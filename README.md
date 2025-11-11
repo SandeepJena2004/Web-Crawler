@@ -4,6 +4,7 @@ A multi-threaded Java Web Crawler with a Spring Boot backend and React frontend.
 This project enables configurable crawling parameters, respects domain restrictions, and displays real-time crawl progress and results in a modern web interface.
 
 ─────────────────────────────
+
 🚀 Features
 
 • Concurrent crawling with customizable thread count
@@ -15,6 +16,7 @@ This project enables configurable crawling parameters, respects domain restricti
 • Interactive React frontend for starting crawls and visualizing results
 
 ─────────────────────────────
+
 🧱 Tech Stack
 
 Backend:
@@ -28,6 +30,7 @@ React (functional components + hooks)
 Node.js & npm
 
 ─────────────────────────────
+
 🛠️ Getting Started
 
 ✅ Prerequisites
@@ -55,6 +58,7 @@ npm install
 
 
 ─────────────────────────────
+
 ▶️ Running the Application
 
 🧩 Backend (Spring Boot)
@@ -75,6 +79,7 @@ Open your browser at:
 http://localhost:3000
 
 ─────────────────────────────
+
 🧭 Usage
 
 Enter a Start URL.
